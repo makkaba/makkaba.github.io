@@ -8,7 +8,7 @@ subtitle: 그림이 더 많은 블로그
 description: 그림이 더 많은 블로그
 author: Jeff
 language: ko
-timezone:
+timezone: Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -80,3 +80,5 @@ deploy:
   type: git
   repo: https://github.com/makkaba/makkaba.github.io.git
   branch: master
+
+disqus_shortname: jeffblog-1
